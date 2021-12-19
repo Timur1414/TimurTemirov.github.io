@@ -1,7 +1,28 @@
-.my_photo {
-    position: absolute;
-    width: 150px;
-    height: 150px;
-    top: 20px;
-    left: 20px;
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    padding: 1%;
+}
+
+footer {
+    padding: 1%;
+    background-color: #333;
+    color: white;
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+.gallery {
+    display: block;
+    margin: auto;
+    margin-bottom: 1%;
 }
