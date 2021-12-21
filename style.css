@@ -17,8 +17,18 @@ footer {
     text-align: right;
 }
 
+footer a {
+    color: aqua;
+}
+footer a:visited {
+    color: aqua;
+}
+
 a {
     text-decoration: none;
+}
+a:visited {
+    color: blue;
 }
 
 .gallery {
